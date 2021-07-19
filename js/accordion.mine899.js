@@ -1,4 +1,3 @@
-
 /*!
  * jQuery UI Accordion 1.11.4
  * http://jqueryui.com
